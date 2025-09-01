@@ -1,0 +1,8 @@
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\TestAssignment\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
